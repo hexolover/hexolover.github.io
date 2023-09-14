@@ -72,7 +72,7 @@
     <link href="https://hexolover.github.io/2023/08/25/hello-world/"/>
     <id>https://hexolover.github.io/2023/08/25/hello-world/</id>
     <published>2023-08-25T06:51:41.083Z</published>
-    <updated>2023-08-25T06:48:48.766Z</updated>
+    <updated>2023-09-11T12:53:05.290Z</updated>
     
     
       
@@ -85,6 +85,10 @@
     
     
     
+    <category term="hello world" scheme="https://hexolover.github.io/categories/hello-world/"/>
+    
+    
+    <category term="-hello world" scheme="https://hexolover.github.io/tags/hello-world/"/>
     
   </entry>
   
